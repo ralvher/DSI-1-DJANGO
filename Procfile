@@ -1,0 +1,1 @@
+web: gunicorn dsi_2_django.wsgi
